@@ -1,0 +1,1 @@
+1. Input an array. reverse the array elements.

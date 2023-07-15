@@ -1,0 +1,31 @@
+PHP - Hypertext Preprocessor 
+HTTP - Hypertext Transfer Protocol
+
+Server
+
+Client 
+
+
+Programming Language
+Markup Language
+Machine Language
+Natural Language
+
+                 Web Application
+            ^                        ^
+        FrontEnd                   BackEnd
+        HTML - Markup Lang           PHP
+        CSS - Styling Lang          MySQL
+        JS - Scripting Lang
+
+
+        HTML/CSS  <> PHP    <> MySQL
+
+
+ Compiler / Interpreter
+
+ 0/1 
+
+ Hello World == 1010101000101010111001010101010
+
+ Web Server

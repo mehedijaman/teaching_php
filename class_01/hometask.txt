@@ -1,3 +1,0 @@
-1. Add/Sub/Mul/Div of two number
-2. Identify the biggest/lowest number among three.
-3. Count the letters of a string.

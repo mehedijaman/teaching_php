@@ -1,0 +1,6 @@
+1. Print all odd numbers between 1 - 100
+2. Print all even numbers between 1 - 100
+3. Print all odd numbers between 100 - 1
+4. Print all even numbers between 100 - 1
+5. Print the largest number among three numbers.
+6. Print the lowest number among three numbers.
