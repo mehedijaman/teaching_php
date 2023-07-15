@@ -1,1 +1,0 @@
-CREATE TABLE currency (id bigint not null primary key auto_increment, name varchar(250) null)
